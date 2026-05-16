@@ -2,6 +2,20 @@
 
 This template is built so you never install anything. Everything happens in your browser. To make changes and watch them deploy, you need a tiny bit of git/GitHub vocabulary.
 
+## Create a GitHub account (if you don't have one)
+
+You only do this once.
+
+1. Go to [github.com/signup](https://github.com/signup).
+2. **Email:** one you actually check — you'll need to verify it.
+3. **Password:** something you'll remember.
+4. **Username:** this becomes part of every URL you'll create here (`github.com/<your-username>/…`). Pick something professional — your real name, your initials, or a stable handle you already use. Lowercase letters, numbers, and hyphens only. Hard to change later, so don't pick a joke.
+5. Solve the puzzle. Click the verification link in the email GitHub sends you.
+6. The "personalize your experience" page is optional — click **Skip personalization** at the bottom.
+7. **Enable two-factor authentication (2FA) when prompted.** GitHub requires it for accounts that contribute code. Easiest path: install the **GitHub Mobile** app on your phone and follow the prompt to link it. Any authenticator app (Google Authenticator, 1Password, Authy) also works. Keep your phone handy whenever you sign in.
+
+The **free plan** is all you need. Public repos, unlimited public forks, github.dev editing, and the Streamlit Cloud connection all work on the free tier. **Don't add a credit card** — none of this template costs anything.
+
 ## Concepts
 
 - **Repository (repo)** — a folder of files, plus the full history of every change ever made to those files. Lives on GitHub. This template is one repo.
